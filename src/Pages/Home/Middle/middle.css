@@ -1,0 +1,5 @@
+.text {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgba(5, 5, 5, 0.979);
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.014);
+}

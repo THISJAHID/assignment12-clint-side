@@ -1,0 +1,51 @@
+.btn {
+    background: #ff1313;
+    font-family: "Teko", sans-serif;
+    text-transform: uppercase;
+  
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+
+    border-radius: 0px;
+
+
+
+
+   
+    cursor: pointer;
+    transition: color 0.4s linear;
+    position: relative;
+    z-index: 1;
+    border: 0;
+    overflow: hidden;
+  
+}
+
+.btn::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 101%;
+    height: 101%;
+    background: #c20505;
+    z-index: 1;
+    border-radius: 5px;
+    transition: transform 0.5s;
+    transition-timing-function: ease;
+    transform-origin: 0 0;
+    transition-timing-function: cubic-bezier(0.5, 1.6, 0.4, 0.7);
+    transform: scaleX(0);
+    border-radius: 0px
+}
+
+.btn:hover::before {
+    transform: scaleX(1);
+    color: #fff !important;
+    z-index: -1
+}
+
+.btn:hover {
+    background-position: right
+}

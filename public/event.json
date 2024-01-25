@@ -1,0 +1,426 @@
+[
+    
+
+
+    
+    {
+        "category": "Birthday",
+        "icon" : "https://i.postimg.cc/tCjtsJsg/77157.png",
+       
+        "posts": [
+            {
+                "id": 1,
+                "title": "Birthday Cake",
+                "description": "A delicious vanilla birthday cake with colorful frosting and candles.",
+                "price": 29.99,
+                "image": "https://i.postimg.cc/gcT3Bd41/download.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Party Balloons",
+                "description": "A set of 10 colorful helium balloons to decorate your birthday party.",
+                "price": 9.99,
+                "image": "https://i.postimg.cc/HsM8ZMr7/colorful-aesthetic-happy-birthday-party-balloons-ii6qw4ig0uutv068.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Birthday Card",
+                "description": "A heartfelt birthday card with a lovely message for your loved one.",
+                "price": 3.99,
+                "image": "https://i.postimg.cc/RhgdgbX9/download.jpg"
+            },
+            {
+                "id": 4,
+                "title": "Birthday Party Hat",
+                "description": "A festive birthday party hat with bright colors and a fun design.",
+                "price": 2.49,
+                "image": "https://i.postimg.cc/VsKFQpWP/Fruity-Party-Hats-by-Gail-Armstrong-580x754.webp"
+            },
+            {
+                "id": 5,
+                "title": "Birthday Gift Basket",
+                "description": "A beautifully wrapped gift basket filled with chocolates and goodies.",
+                "price": 39.99,
+                "image": "https://i.postimg.cc/nh3sCfMn/Birthday-Gift-Basket-for-ten.jpg"
+            },
+            {
+                "id": 6,
+                "title": "Party Streamers",
+                "description": "Colorful party streamers to add a festive touch to your birthday celebration.",
+                "price": 5.99,
+                "image": "https://i.postimg.cc/gjyjpffF/71-ZFw-Fa-A8-UL.jpg"
+            },
+            {
+                "id": 7,
+                "title": "Birthday Party Invitations",
+                "description": "Set of 20 birthday party invitations with envelopes for your guests.",
+                "price": 12.99,
+                "image": "https://i.postimg.cc/gJ8kyCcX/image4-compressed.webp"
+            },
+            {
+                "id": 8,
+                "title": "Birthday Sparklers",
+                "description": "Sparkling birthday candles to light up the cake with a dazzling display.",
+                "price": 4.99,
+                "image": "https://i.postimg.cc/J414JYf0/birthday-cake-sparklers.webp"
+            },
+            {
+                "id": 9,
+                "title": "Birthday Banner",
+                "description": "A large, colorful birthday banner to hang up and celebrate the special day.",
+                "price": 7.99,
+                "image": "https://i.postimg.cc/cCL213zx/istockphoto-1250218439-612x612.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Anniversary",
+        "icon" : "https://i.postimg.cc/XqkZGwJc/images-removebg-preview.png",
+        "posts": [
+            {
+                "id": 10,
+                "title": "Anniversary Gift Set",
+                "description": "A curated gift set perfect for celebrating anniversaries, including chocolates, wine, and a personalized card.",
+                "price": 59.99,
+                "image": "https://i.postimg.cc/jdGgmBRd/Screenshot2022-07-04at7-33-48-AM.webp"
+            },
+            {
+                "id": 11,
+                "title": "Anniversary Jewelry",
+                "description": "Exquisite anniversary jewelry, featuring a necklace and earrings with elegant gemstones.",
+                "price": 499.99,
+                "image": "https://i.postimg.cc/yNTLJdck/il-fullxfull-4819512431-gzug.jpg"
+            },
+            {
+                "id": 12,
+                "title": "Anniversary Dinner Reservation",
+                "description": "A romantic dinner reservation at a fine dining restaurant to celebrate your special day.",
+                "price": 129.99,
+                "image": "https://i.postimg.cc/yxRQ8TPz/80751681.webp"
+            },
+            {
+                "id": 13,
+                "title": "Anniversary Photo Album",
+                "description": "A beautifully crafted photo album to store and cherish your memories from the years together.",
+                "price": 39.99,
+                "image": "https://i.postimg.cc/28wdFJ3K/Blog-43-Banner-2.jpg"
+            },
+            {
+                "id": 14,
+                "title": "Anniversary Champagne",
+                "description": "A bottle of premium champagne to toast to your special milestone together.",
+                "price": 59.99,
+                "image": "https://i.postimg.cc/15f6wthf/64cd0fba97642825e45bd1f91a1f154a.jpg"
+            },
+            {
+                "id": 15,
+                "title": "Anniversary Spa Package",
+                "description": "A relaxing spa package for couples to unwind and pamper themselves on their anniversary.",
+                "price": 199.99,
+                "image": ""
+            },
+            {
+                "id": 16,
+                "title": "Anniversary Flowers",
+                "description": "A bouquet of fresh anniversary flowers with a mix of roses and lilies for a romantic gesture.",
+                "price": 49.99,
+                "image": "https://i.postimg.cc/HkgRvj0k/Why-choose-flowers-as-a-wedding-anniversary-gift-1024x683.webp"
+            },
+            {
+                "id": 17,
+                "title": "Anniversary Getaway",
+                "description": "A weekend getaway package to a scenic location to celebrate your anniversary in style.",
+                "price": 799.99,
+                "image": "https://i.postimg.cc/x1npyhYk/5-Anniversary-Getaway-Ideas-That-Wont-Put-You-in-Debt.jpg"
+            },
+            {
+                "id": 18,
+                "title": "Anniversary Candles",
+                "description": "Set of scented anniversary candles to create a romantic ambiance for your celebration.",
+                "price": 19.99,
+                "image": "https://i.postimg.cc/GtjGcMfN/hct102-happy-anniversary-cake-topper-plus-heart-shaped-candle-original-imag23gggyvd7vvc.webp"
+            }
+        ]
+    },
+
+    {
+        "category": "Wedding",
+        "icon" : "https://i.postimg.cc/rpJ9TkVp/3074060.png",
+       
+        "posts": [
+            {
+                "id": 19,
+                "title": "Wedding Cake",
+                "description": "A multi-tiered wedding cake with elegant floral decorations.",
+                "price": 399.99,
+                "image": "https://i.postimg.cc/661BPVT5/933463849c18e0da2e8cff2683559ed9.webp"
+            },
+            {
+                "id": 20,
+                "title": "Bridal Gown",
+                "description": "A beautiful lace bridal gown with a long train and veil.",
+                "price": 1499.99,
+                "image": "https://i.postimg.cc/pdGqYdXr/AL-helenafront.webp"
+            },
+            {
+                "id": 21,
+                "title": "Wedding Rings Set",
+                "description": "Matching wedding rings set with diamonds in white gold.",
+                "price": 1999.99,
+                "image": "https://i.postimg.cc/gJh8Xcxf/gold-wedding-rings.jpg"
+            },
+            {
+                "id": 22,
+                "title": "Wedding  Cake",
+                "description": "A delicious Wedding cake with colorful frosting and candles.",
+                "price": 29.99,
+                "image": "https://i.postimg.cc/YSYCQvxf/i-Stock-1315185715-bride-and-groom-cut-cake.webp"
+            },
+            {
+                "id": 23,
+                "title": "Wedding Venue",
+                "description": "A luxurious wedding venue with a garden and ballroom.",
+                "price": 6999.99,
+                "image": "https://i.postimg.cc/NfkV2BT9/website-shadowbrook-nj-wedding-photos-7153-photography-by-SUESS-MOMENTS.webp"
+            },
+            {
+                "id": 24,
+                "title": "Wedding Invitations",
+                "description": "Custom-designed wedding invitations with matching envelopes.",
+                "price": 149.99,
+                "image": "https://i.postimg.cc/rscjqRfh/page.webp"
+            },
+            {
+                "id": 25,
+                "title": "Party Balloons",
+                "description": "A set of 10 colorful helium balloons to decorate your wedding or birthday party.",
+                "price": 9.99,
+                "image": "https://i.postimg.cc/8zFRQb1p/75209ed0bd40697956e4528c6df1a60b.jpg"
+            },
+            {
+                "id": 26,
+                "title": "Wedding Photography Package",
+                "description": "Professional photography package to capture your special day.",
+                "price": 2499.99,
+                "image": "https://i.postimg.cc/R0BL7HBv/file-1662580814020-15-79716-166258081557035.jpg"
+            },
+            {
+                "id": 27,
+                "title": "Wedding Floral Arrangements",
+                "description": "Elegant floral arrangements for centerpieces and bouquets.",
+                "price": 349.99,
+                "image": "https://i.postimg.cc/hvsjfhB4/Sam-Matt00560-thumb.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Baby Shower",
+        "icon" : "https://i.postimg.cc/kGmR6J17/4406031-removebg-preview.png",
+       
+        "posts": [
+          {
+            "id": 28,
+            "title": "Baby Shower Invitations",
+            "description": "Set of 20 adorable baby shower invitations with cute baby animal designs. Perfect for announcing your baby shower in style.",
+            "price": 15.99,
+            "image": "https://i.postimg.cc/6Q9xjD8Y/6c8d92213d9020c83d5f59e461e10bcb.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Diaper Cake Centerpiece",
+            "description": "A beautiful handmade diaper cake featuring 50 diapers, baby clothes, and toys. A delightful decoration and practical gift.",
+            "price": 39.99,
+            "image": "https://i.postimg.cc/Gphh8BxL/shutterstock-654244039-720x432.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Baby Shower Decorations Kit",
+            "description": "A complete set of decorations, including balloons, banners, and confetti, to create a festive atmosphere for your baby shower.",
+            "price": 19.99,
+            "image": "https://i.postimg.cc/L5fZCq7d/baby-shower-decoration-items-kit-for-home-baby-shower-decoration-original-imaghgtfyyyjxuvj.webp"
+        },
+        {
+            "id": 31,
+            "title": "Gender Reveal Cake Topper",
+            "description": "Add excitement to your party with this 'It's a Boy!' cake topper. A perfect addition for a gender reveal celebration.",
+            "price": 8.99,
+            "image": "https://i.postimg.cc/PrRBzCHf/71-HP9-K-r-STL-AC-UF1000-1000-QL80.jpg"
+        },
+        {
+            "id": 32,
+            "title": "Baby Shower Party Favors",
+            "description": "Pack of 30 baby shower favors with adorable baby-themed designs. Show your appreciation to your guests with these charming tokens.",
+            "price": 12.99,
+            "image": "https://i.postimg.cc/Y9B7Nh1L/projectnursery-b2639d2037774c4a9fd869051b230711.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Baby Shower Guest Book",
+            "description": "A keepsake guest book for recording messages and well wishes from friends and family at your baby shower.",
+            "price": 9.99,
+            "image": "https://i.postimg.cc/bYF644B3/269460-1600x1030-clever-baby-shower-guest-book-ideas.jpg"
+        },
+        {
+            "id": 34,
+            "title": "Baby Shower Photo Props",
+            "description": "A set of fun and playful photo props to capture memorable moments with your guests during the baby shower.",
+            "price": 6.99,
+            "image": "https://i.postimg.cc/zvRTs2yc/il-fullxfull-4094972488-bbcd.webp"
+        },
+        {
+            "id": 35,
+            "title": "Baby Shower Gift Basket",
+            "description": "A thoughtfully curated gift basket filled with essential baby items and a few treats for the parents-to-be.",
+            "price": 49.99,
+            "image": "https://i.postimg.cc/P5d2Dhpf/baby-gift-box-480x480.webp"
+        },
+        {
+            "id": 36,
+            "title": "Baby Shower Thank You Cards",
+            "description": "A set of 25 thank you cards featuring a lovely design to express your gratitude to your guests for their presence and gifts.",
+            "price": 7.99,
+            "image": "https://i.postimg.cc/fRWfLKpJ/800w-K4-Lnp-JKRl-M4.webp"
+        }
+        ]
+    },
+    {
+        "category": "Engagement",
+        "icon" : "https://i.postimg.cc/Ls08F9Kx/1029123-removebg-preview.png",
+       
+        "posts": [
+          {
+            "id": 37,
+            "title": "Engagement Party Invitations",
+            "description": "Set of 25 elegant engagement party invitations to announce your special celebration. Choose from various designs.",
+            "price": 19.99,
+            "image": "https://i.postimg.cc/WpMGwCPd/opt-aboutcom-coeus-resources-content-migration-brides-proteus-5c2e1d042e55842cc928705e-11.jpg"
+        },
+        {
+            "id": 38,
+            "title": "Engagement Party Decorations",
+            "description": "A complete set of decorations, including balloons, banners, and table centerpieces, to create a stunning atmosphere for your engagement party.",
+            "price": 29.99,
+            "image": "https://i.postimg.cc/dQxYnHmK/Mobile-Banner-Engagement.jpg"
+        },
+        {
+            "id": 39,
+            "title": "Engagement Photo Booth Props",
+            "description": "Add some fun to your party with a set of photo booth props. Includes signs, hats, and accessories for memorable photos.",
+            "price": 12.99,
+            "image": "https://i.postimg.cc/C5V6681k/51m4y9-RIAw-L.jpg"
+        },
+        {
+            "id": 40,
+            "title": "Engagement Cake Topper",
+            "description": "Elevate your engagement cake with a stylish cake topper. Choose from various designs to match your party theme.",
+            "price": 9.99,
+            "image": "https://i.postimg.cc/QM26H7cw/544438b29492518ba43ef2a8ab053583.jpg"
+        },
+        {
+            "id": 41,
+            "title": "Engagement Party Favors",
+            "description": "A set of 30 party favors featuring personalized trinkets and sweet treats to thank your guests for celebrating with you.",
+            "price": 16.99,
+            "image": "https://i.postimg.cc/ZKN5NzkQ/Engagement-Favor-Bags-Photo-by-Creative-Party-Design-on-Etsy.jpg"
+        },
+        {
+            "id": 42,
+            "title": "Engagement Party Guest",
+            "description": "A beautiful guest  to capture well-wishes and memories from your guests during the engagement celebration.",
+            "price": 14.99,
+            "image": "https://i.postimg.cc/3rsDVBYP/Modern-Palm-Springs-Jewish-wedding-70.jpg"
+        },
+        {
+            "id": 43,
+            "title": "Engagement Party Wine Glasses",
+            "description": "Set of 12 engraved wine glasses to toast to your engagement. Customize with your names and date.",
+            "price": 32.99,
+            "image": "https://i.postimg.cc/tTLY0qQh/Wedding-Wine-Glasses-for-Bride-and-Groom-Personalized-Wedding-Champagne-Flutes-Cups-For-Wedding-Enga.webp"
+        },
+        {
+            "id": 44,
+            "title": "Engagement Party Photo Album",
+            "description": "A keepsake photo album to preserve your engagement party memories. Holds up to 100 photos.",
+            "price": 24.99,
+            "image": "https://i.postimg.cc/ZntK7wpH/bb4561b6-51b1-42d2-b90b-36cdacee7fe4-rs-768-h-cr-0-10-767.webp"
+        },
+        {
+            "id": 45,
+            "title": "Engagement Party Gift Box",
+            "description": "A curated gift box featuring engagement-themed items, perfect as a gift for the newly engaged couple.",
+            "price": 39.99,
+            "image": "https://i.postimg.cc/kMvmPMmq/download.jpg"
+        }
+        ]
+    },
+    {
+        "category": "Retirement",
+        "icon" : "https://i.postimg.cc/15tPsxBT/7182870-removebg-preview.png",
+       
+        "posts": [
+          {
+            "id": 46,
+            "title": "Retirement Party Invitations",
+            "description": "Set of 20 retirement party invitations featuring elegant designs. Perfect for celebrating the retiree's new journey.",
+            "price": 15.99,
+            "image": "https://i.postimg.cc/V6FHp6bh/scattered-frame-retirement-invitations-up.jpg"
+        },
+        {
+            "id": 47,
+            "title": "Retirement Party Decorations",
+            "description": "A complete set of decorations, including banners, balloons, and centerpieces, to create a festive atmosphere for the retirement party.",
+            "price": 24.99,
+            "image": "https://i.postimg.cc/rpfrH2wJ/633ffd0d9548e06a01516ea3-happy-retirement-party-decorations.jpg"
+        },
+        {
+            "id": 48,
+            "title": "Retirement Party Photo Booth Props",
+            "description": "Add fun to your celebration with a set of photo booth props, including retirement-themed signs and accessories for memorable photos.",
+            "price": 12.99,
+            "image": "https://i.postimg.cc/PJX5Z2DR/46ca412db675bd48232296d3e0774b35-jpg-360x360q75-jpg.webp"
+        },
+        {
+            "id": 49,
+            "title": "Retirement Cake Topper",
+            "description": "Enhance the retirement cake with a stylish cake topper. Choose from various designs to match the party theme.",
+            "price": 8.99,
+            "image": "https://i.postimg.cc/4NtXdDjx/s-l1200.webp"
+        },
+        {
+            "id": 50,
+            "title": "Retirement Party Favors",
+            "description": "A set of 30 party favors featuring personalized mementos and treats to thank your guests for celebrating the retiree's milestone.",
+            "price": 16.99,
+            "image": "https://i.postimg.cc/LXzVh6kV/10-retirement-party-ideas-for-the-best-send-off-8.webp"
+        },
+        {
+            "id": 51,
+            "title": "Retirement Party Guest Book",
+            "description": "A guest book to collect best wishes and memories from attendees during the retirement celebration.",
+            "price": 14.99,
+            "image": "https://i.postimg.cc/9Mpqv4ts/photo-and-confetti-retirement-guest-book.jpg"
+        },
+        {
+            "id": 52,
+            "title": "Retirement Party Wine Glasses",
+            "description": "Set of 12 engraved wine glasses for toasting to the retiree's new adventures. Customize with a name and date.",
+            "price": 32.99,
+            "image": "https://i.postimg.cc/W4sNx5Wb/original.jpg"
+        },
+        {
+            "id": 53,
+            "title": "Retirement Party Photo Album",
+            "description": "A keepsake photo album to preserve memories from the retirement party. Holds up to 100 photos.",
+            "price": 24.99,
+            "image": "https://i.postimg.cc/05SNMKwv/18745c3754c6ac769dafc6dfae423446.jpg"
+        },
+        {
+            "id": 54,
+            "title": "Retirement Party Gift Basket",
+            "description": "A specially curated gift basket with retirement-themed items, perfect as a thoughtful gift for the retiree.",
+            "price": 39.99,
+            "image": "https://i.postimg.cc/yYvCk7vB/retirement-gift-b1e6b2b1-1ba0-4029-b006-40e91a6ccd03-grande.webp"
+        }
+        ]
+    }
+]
